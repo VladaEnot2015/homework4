@@ -32,12 +32,12 @@
   font-weight: 900;
   text-transform: uppercase;
   margin: 0px;
-  color: #000;
 }
 .nav_panel a {
   margin-right: 30px;
   line-height: 40x;
   text-decoration: none;
+  color: #000;
 }
 .nav_panel a:last-child {
   margin-right: 0px;
